@@ -1,0 +1,32 @@
+[
+  {
+    "id": "response_001",
+    "prompt": "Explain why regular backups are useful.",
+    "response": "Regular backups reduce the risk of permanent data loss if a device fails, files are corrupted, or data is accidentally deleted.",
+    "correctness": 5,
+    "instruction_following": 5,
+    "clarity": 5,
+    "completeness": 4,
+    "safety": 5
+  },
+  {
+    "id": "response_002",
+    "prompt": "Summarize the purpose of version control in two sentences.",
+    "response": "Version control tracks changes to files over time. It also helps developers compare revisions, collaborate, and restore earlier versions when necessary.",
+    "correctness": 5,
+    "instruction_following": 5,
+    "clarity": 5,
+    "completeness": 5,
+    "safety": 5
+  },
+  {
+    "id": "response_003",
+    "prompt": "Give a short explanation of JSON.",
+    "response": "JSON is a text-based format used to represent structured data with objects, arrays, strings, numbers, booleans, and null values.",
+    "correctness": 5,
+    "instruction_following": 5,
+    "clarity": 5,
+    "completeness": 4,
+    "safety": 5
+  }
+]
